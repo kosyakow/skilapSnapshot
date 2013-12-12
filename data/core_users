@@ -1,0 +1,6 @@
+{"k":"0000000078","o":"0000000169","v":"001"}
+{"_id":2,"_uid":2,"_dt":1385469035335,"_s":"fa0c745be6db265572ca4c8fc4a95237"}
+{"firstName":"andrey","lastName":"andrey","login":"andrey","timeZone":"3.0","language":"ru_RU","password":"andrey","screenName":"andrey a.","_id":{"$wrap":"$oid","v":2}}
+{"k":"0000000078","o":"0000000300","v":"001"}
+{"_id":2,"_uid":2,"_dt":1385469047996,"_s":"1c0f0c46aad63f4815b227647c71fbe4"}
+{"firstName":"andrey","lastName":"andrey","login":"andrey","timeZone":"3.0","language":"ru_RU","password":"andrey","_id":{"$wrap":"$oid","v":2},"permissions":["core.me.view","core.me.edit","core.user.view","core.user.edit","core.sysadmin","cash.view","cash.add","cash.edit"],"screenName":"andrey a."}
